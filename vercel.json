@@ -1,5 +1,5 @@
 {
   "buildCommand": "npm run build --prefix Foodfywebsites/foodfy-web",
   "outputDirectory": "Foodfywebsites/foodfy-web/dist",
-  "installCommand": "npm install --prefix Foodfywebsites/foodfy-web"
+  "installCommand": "npm install --prefix Foodfywebsites/foodfy-web --legacy-peer-deps"
 }
